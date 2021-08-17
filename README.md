@@ -1,23 +1,13 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-![GitHub language count](https://img.shields.io/github/languages/count/mahanfarzaneh2000/kut_mobile?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/mahanfarzaneh2000?style=flat-square)
-![GitHub](https://img.shields.io/github/license/mahanfarzaneh2000/kut_mobile)
+<h1 align="center">Kut Mobile Backend</h1>
+<div align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQEepw5c7l3cUw/company-logo_200_200/0/1618924051244?e=2159024400&v=beta&t=NaqsrUZ7u7RbofhIQSV4shd5Aer1rIy943Xm_V4rol0"/>
+</div>
+<h3 align="center">Mobile app backend for Kermanshah university of technology in Django</h3>
 
-# Kut Mobile Backend
-Mobile app backend for Kermanshah university of technology in Django
-
-Mobile App Repository: [Kut Mobile]('#')
-
+## Copyright
+Software written exclusivly for kermanshah university of technology and licensed under [apache license](/LICENSE)
+</br>
+For more information visit: [Kut Moblie App]('#')
 ## Documenation
 ## Usage
 ## About us
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mahanfarzaneh2000/kut_mobile.svg?style=flat-square
-[contributors-url]: https://github.com/mahanfarzaneh2000/kut_mobile/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mahanfarzaneh2000/kut_mobile.svg?style=flat-square
-[forks-url]: https://github.com/mahanfarzaneh2000/meydoon/network/members
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/mahan-farzaneh/
