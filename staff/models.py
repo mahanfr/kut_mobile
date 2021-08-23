@@ -10,6 +10,7 @@ class Staff(models.Model):
     internal_phone_line = models.CharField(max_length=255,blank=True,null=True)
     email = models.EmailField(blank=True,null=True)
     education = models.CharField(max_length=255,blank=True,null=True)
+    resume_link = models.URLField(max_length=510)
     date_joind = models.DateField(blank=True,null=True)
 
     def __str__(self) -> str:
