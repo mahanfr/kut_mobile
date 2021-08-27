@@ -63,6 +63,7 @@ db.sqlite3-journal
 */migrations
 secrets.json
 sample.json
+sample2.json
 
 # Flask stuff:
 instance/
