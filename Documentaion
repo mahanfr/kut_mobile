@@ -1,0 +1,31 @@
+Api Calls may contain this fields
+
+News And Announcement
+id: long
+title : String
+article_date : Date
+cover_link : String
+article_link : String
+article : String?
+
+Event
+id : long
+subject : String
+start_date : Date
+end_date : Date?
+start_time : Time?
+end_time : Time?
+priority : Int
+
+Staff
+first_name : String
+last_name : String
+profile_image : String
+group : int?
+institute : int?
+responsibility : String
+internal_phone_line : String?
+email : String?
+education : String?
+resume_link : String?
+date_joind : Date?
